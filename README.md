@@ -1,5 +1,5 @@
 # Snake-Game
-## Snake Game developed  in Phaser 3 Enginge
+## Snake Game developed  with Phaser 3 Engine
 ## Backend in Golang 
 ## Front in VueJs with Vuetify 
 ## Database CockroachDb
